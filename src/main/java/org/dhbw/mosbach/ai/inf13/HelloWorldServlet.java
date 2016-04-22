@@ -21,4 +21,8 @@ public class HelloWorldServlet extends HttpServlet
 						parameter));
 	}
 }
+<<<<<<< HEAD
 //TEST
+=======
+//TESTTTT
+>>>>>>> TEST2
