@@ -1,4 +1,3 @@
-//TEST
 package org.dhbw.mosbach.ai.inf13;
 
 import java.io.IOException;
@@ -21,8 +20,4 @@ public class HelloWorldServlet extends HttpServlet
 						parameter));
 	}
 }
-<<<<<<< HEAD
-//TEST
-=======
-//TESTTTT
->>>>>>> TEST2
+//END
